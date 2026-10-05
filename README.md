@@ -1,2 +1,2 @@
 # CS4085-Deep-learning
-Repository to store all labs and Lectures for CS4085
+Repository to store all labs and lectures for CS4085
